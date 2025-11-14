@@ -1,0 +1,8 @@
+{
+  "topics": 5,
+  "text_col": "text",
+  "max_features": 5000,
+  "max_df": 0.95,
+  "min_df": 5,
+  "csv": "bbc-text.csv"
+}
