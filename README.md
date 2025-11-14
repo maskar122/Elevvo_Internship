@@ -16,21 +16,32 @@ topic_modeling_app/
 │
 ├── data/
 │   └── bbc-text.csv             # dataset
+
 │
 ├── artifacts/                   # هيتولد بعد التدريب
+
 │   ├── vectorizer.joblib
+
 │   ├── lda_model.joblib
+
 │   ├── topic_top_words.json
-│   ├── pyldavis.html
+
 │   └── wordclouds/              # الصور الناتجة عن WordCloud
+
 │
 ├── code/
+
 │   ├── train_topic_model.py     # تدريب LDA وحفظ artifacts
+
 │   ├── compare_lda_nmf.py      # مقارنة LDA vs NMF
+
 │   ├── topic_visualizations.py  # WordCloud لكل topic
+
 │   └── app.py                   # واجهة Streamlit 
 │
+
 ├── requirements.txt
+
 └── README.md
 
 # Topic Modeling on News Articles
