@@ -54,25 +54,7 @@ topic_modeling_app/
 ![Topic Modeling on News Articles](https://github.com/maskar122/Elevvo_Internship/blob/d23513cce56056de02e20b1926d1b5a013f2d7a6/tasks/Screenshot%20(769).png)
 ![Topic Modeling on News Articles](https://github.com/maskar122/Elevvo_Internship/blob/d23513cce56056de02e20b1926d1b5a013f2d7a6/tasks/Screenshot%20(772).png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Text Summarization App
 
@@ -93,9 +75,13 @@ Generate concise summaries from long articles using pre-trained NLP models (BART
 text_summarization_app/
 │
 ├── data/ # Dataset (optional, cleaned small subset)
+
 │ ├── load_data.py
+
 │ ├── summarize.py
+
 │ ├── evaluate_rouge.py
+
 │ └── app.py
 
 
