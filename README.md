@@ -1,3 +1,38 @@
+# Resume Screening using NLP
+
+This project is a **Resume Screening System** using NLP and embeddings. It allows you to upload resumes and match them against job descriptions, ranking candidates based on semantic similarity.
+
+---
+
+## 📂 Project Structure
+
+resume_screening_nlp/
+├── artifacts/ # Generated CSVs, embeddings, and results
+├── data/ # Raw resume files (PDF, DOCX, TXT)
+├── scripts/ # Python scripts
+│ ├── step1_extract_resumes.py
+│ ├── step2_clean_resumes.py
+│ ├── step3_improved_resume_match.py
+│ ├── step3_match_job_description.py
+├── app.py # Streamlit app
+├── requirements.txt
+└── README.md
+
+Resume Screening using NLP
+
+![Resume Screening using NLP](https://github.com/maskar122/Elevvo_Internship/blob/293288b5826b2fe5a5276691f378d61eddb2ebb7/tasks/Screenshot%20(774).png)
+![Resume Screening using NLP](https://github.com/maskar122/Elevvo_Internship/blob/293288b5826b2fe5a5276691f378d61eddb2ebb7/tasks/Screenshot%20(775).png)
+![Resume Screening using NLP](https://github.com/maskar122/Elevvo_Internship/blob/293288b5826b2fe5a5276691f378d61eddb2ebb7/tasks/Screenshot%20(777).png)
+![Resume Screening using NLP](https://github.com/maskar122/Elevvo_Internship/blob/293288b5826b2fe5a5276691f378d61eddb2ebb7/tasks/Screenshot%20(779).png)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 # Topic Modeling on News Articles
 
 Discover hidden topics or themes in a collection of news articles (BBC News Dataset).
@@ -54,7 +89,13 @@ topic_modeling_app/
 ![Topic Modeling on News Articles](https://github.com/maskar122/Elevvo_Internship/blob/d23513cce56056de02e20b1926d1b5a013f2d7a6/tasks/Screenshot%20(769).png)
 ![Topic Modeling on News Articles](https://github.com/maskar122/Elevvo_Internship/blob/d23513cce56056de02e20b1926d1b5a013f2d7a6/tasks/Screenshot%20(772).png)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 # Text Summarization App
 
