@@ -1,3 +1,56 @@
+# Question Answering with Transformers
+
+This project fine-tunes DistilBERT on SQuAD v1.1 for extractive question answering.
+
+## Structure
+
+- `data/raw/` : raw SQuAD JSON files.
+- `data/processed/` : tokenized datasets.
+- `models/qa_model/` : trained model.
+- `scripts/prepare_dataset.py` : parse & tokenize SQuAD.
+- `scripts/train.py` : train the QA model.
+- `app/app.py` : Streamlit app to interact with the model.
+
+## Question Answering with Transformers
+
+![Question Answering with Transformers](https://github.com/maskar122/Elevvo_Internship/blob/33fa53e3fd48e62525b07fe8bebc33236da6a2e9/tasks/Screenshot%20(783).png)
+![Question Answering with Transformers](https://github.com/maskar122/Elevvo_Internship/blob/33fa53e3fd48e62525b07fe8bebc33236da6a2e9/tasks/Screenshot%20(784).png)
+![Question Answering with Transformers](https://github.com/maskar122/Elevvo_Internship/blob/33fa53e3fd48e62525b07fe8bebc33236da6a2e9/tasks/Screenshot%20(785).png)
+![Question Answering with Transformers](https://github.com/maskar122/Elevvo_Internship/blob/33fa53e3fd48e62525b07fe8bebc33236da6a2e9/tasks/Screenshot%20(786).png)
+![Question Answering with Transformers](https://github.com/maskar122/Elevvo_Internship/blob/33fa53e3fd48e62525b07fe8bebc33236da6a2e9/tasks/Screenshot%20(787).png)
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Resume Screening using NLP
 
 This project is a **Resume Screening System** using NLP and embeddings. It allows you to upload resumes and match them against job descriptions, ranking candidates based on semantic similarity.
