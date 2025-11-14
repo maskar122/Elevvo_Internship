@@ -33,24 +33,6 @@ This project fine-tunes DistilBERT on SQuAD v1.1 for extractive question answeri
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Resume Screening using NLP
 
 This project is a **Resume Screening System** using NLP and embeddings. It allows you to upload resumes and match them against job descriptions, ranking candidates based on semantic similarity.
