@@ -25,4 +25,4 @@ text_summarization_app/
 
 # Text Summarization App
 ![Text Summarization App](https://github.com/maskar122/Elevvo_Internship/blob/76550f2774aee975b2812dd8e061bf122a1bb798/tasks/Screenshot%20(756).png)
-![Text Summarization App](https://github.com/maskar122/Elevvo_Internship/blob/76550f2774aee975b2812dd8e061bf122a1bb798/tasks/Screenshot%20(757).png)
+![Text Summarization App](https://github.com/maskar122/Elevvo_Internship/blob/502174ecd4a05bbc371ee51b2b7b234b08408da5/tasks/Screenshot%20(758).png)
